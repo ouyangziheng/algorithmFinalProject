@@ -1,0 +1,8 @@
+.vscode
+*.png
+.clang-format
+main
+*.o
+*.npy
+*.txt
+max_similarity_frames
